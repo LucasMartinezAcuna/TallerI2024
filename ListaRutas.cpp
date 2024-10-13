@@ -45,38 +45,15 @@ void desplegarLista_Rutas(Lista_Rutas l)
        printf("\n *-_*_-*-_*_-*-_*_-*-_**-_*_-*-_*_-*-_*_-*-_**-_*_-*-_*_-*-_*_-*-_**-_*_-*-_*_-*-_*_-*-_* \n");
 }
 
-bool perteneceLista_Rutas(Lista_Rutas l, Punto p)
-{
-    while (l != NULL)
-    {
-        if (darIdPunto(l->dato) == darIdPunto(p))
-        {
-            return true;
-        }
+bool perteneceLista_Rutas(Lista_Rutas l, Ruta r){
+
+    while (l != NULL && darIdPunto1(l->dato) == darIdPunto1(r) && darIdPunto2(l->dato)==darIdPunto2(r)){
         l = l->sig;
     }
-    return false;
+    return l!=NULL;
 }
-Punto obtenerLista_Rutas(Lista_Rutas l, int cod)
-{
-    bool seguir = true;
-    while (l != NULL && seguir)
-    {
-        if( l->dato->id == cod)
-            seguir = false;
-        else
-            l = l->sig;
-    }
-    if (l != NULL)
-    {
-        return l->dato;
-    }
-    else
-    {
-        return NULL; // Manejar este caso adecuadamente en el uso de la función
-    }
-}
-void borrarLista_Rutas(Lista_Rutas &l,int cod)
+
+void borrarLista_Rutas(Lista_Rutas &l,int idp1, int idp2)
 {
     //si el primer nodo es el que debe borrarse
     if (l != NULL && l->dato->id == cod) {
