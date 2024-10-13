@@ -1,0 +1,135 @@
+#include <iostream>
+  #include <conio.h>
+  #include <stdio.h>
+  #include "Fecha.h"
+  #include "cadena.h"
+  #include "producto.h"
+
+  using namespace std;
+
+  int main() {
+  cadena s1, s2, s3;
+  strcrear(s1);
+  strcrear(s2);
+  strcrear(s3);
+  Fecha a;
+  Producto p; // TDA Producto (tipo puntero)
+  int opcion;
+
+  do {
+  printf("\n");
+  printf("\nMenu de Operaciones:\n");
+  printf("1. Crear y mostrar una fecha\n");
+  printf("2. Leer e imprimir cadenas\n");
+  printf("3. Copiar cadena 1 en cadena 3\n");
+  printf("4. Concatenar cadena 2 a cadena 1\n");
+  printf("5. Intercambiar cadena 1 y cadena 2\n");
+  printf("6. Comparar cadenas\n");
+  printf("7. Verificar si las cadenas son iguales\n");
+  printf("8. Crear y mostrar un Producto\n");
+  printf("9. Modificar datos de Producto\n");
+  printf("10. Salir\n");
+  printf("Seleccione una opcion: ");
+  scanf("%d", &opcion);
+  fflush(stdin);
+
+  switch(opcion) {
+  case 1:
+  a = crearFecha();
+  a = cargarFecha(25, 7, 2024);
+  desplegar(a);
+  break;
+
+  case 2:
+  printf("Ingrese la primera cadena: ");
+  scan(s1);
+  fflush(stdin);
+  printf("Ingrese la segunda cadena: ");
+  scan(s2);
+ fflush(stdin);
+  printf("Cadena 1: ");
+  print(s1);
+  printf("Cadena 2: ");
+  print(s2);
+  break;
+
+  case 3:
+  strcop(s3, s1);
+  printf("Cadena 3 (copia de cadena 1): ");
+  print(s3);
+  break;
+
+  case 4:
+  strcon(s1, s2);
+  printf("Cadena 1 después de concatenar con cadena 2: ");
+  print(s1);
+  break;
+
+  case 5:
+  strswp(s1, s2);
+  printf("Después de intercambiar:\n");
+  printf("Cadena 1: ");
+  print(s1);
+  printf("Cadena 2: ");
+  print(s2);
+  break;
+
+  case 6:
+  if (strmen(s1, s2)) {
+  printf("Cadena 1 es alfabéticamente menor que Cadena 2\n");
+  } else {
+  printf("Cadena 1 no es alfabéticamente menor que Cadena 2\n");
+  }
+  break;
+
+  case 7:
+  if (streq(s1, s2)) {
+  printf("Cadena 1 y Cadena 2 son iguales\n");
+  } else {
+  printf("Cadena 1 y Cadena 2 no son iguales\n");
+  }
+  break;
+
+  case 8:
+  p=crearProducto(123, "Producto Cargado ", "Tipo A", 99.99);
+  printf("Producto creado:\n");
+  printf("Codigo: %d \n", darcodigoId(p));
+  printf("Descripcion: ");
+  print(dardescripcion(p));
+  printf("\n Tipo: ");
+ print(dartipo(p));
+ printf("\nPrecio: %.2f\n", darprecio(p));
+ break;
+
+ case 9:
+ modificarcodigoId(p, 456);
+ modificardescripcion(p, "Producto modificado");
+ modificartipo(p, "Tipo B");
+ modificarprecio(p, 149.99);
+ printf("Producto modificado:\n");
+ printf("Codigo: %d\n", darcodigoId(p));
+ printf("Descripcion: ");
+ print(dardescripcion(p));
+ printf("\nTipo: ");
+ print(dartipo(p));
+ printf("\nPrecio: %.2f\n", darprecio(p));
+ break;
+
+ case 10:
+ printf("Saliendo...\n");
+ break;
+
+ default:
+ printf("Opcion no válida. Por favor, intente de nuevo.\n");
+ }
+ } while (opcion != 10);
+
+ // Liberar la memoria del producto creado
+ destruirProducto(p);
+ // Liberar memoria de Cadena
+ strdestruir(s1);
+ strdestruir(s2);
+ strdestruir(s3);
+
+ return 0;
+ }

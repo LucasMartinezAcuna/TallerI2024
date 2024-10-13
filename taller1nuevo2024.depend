@@ -1,0 +1,2030 @@
+# depslib dependency file v1.0
+1724737219 source:c:\users\31455183\desktop\taller1\taller1nuevo2024\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"cadena.h"
+	"producto.h"
+	"Lista.h"
+	"hash.h"
+	"Cliente.h"
+
+1724637370 source:c:\users\31455183\desktop\taller1\taller1nuevo2024\fecha.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Fecha.h"
+
+1724636994 c:\users\31455183\desktop\taller1\taller1nuevo2024\fecha.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1723516808 c:\users\31455183\desktop\taller1\taller1nuevo2024\cadena.h
+
+1724638824 c:\users\31455183\desktop\taller1\taller1nuevo2024\producto.h
+	"cadena.h"
+
+1724637810 source:c:\users\31455183\desktop\taller1\taller1nuevo2024\cadena.cpp
+	"cadena.h"
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1724642258 source:c:\users\31455183\desktop\taller1\taller1nuevo2024\producto.cpp
+	"producto.h"
+	"cadena.h"
+
+1724737398 source:c:\users\31455183\desktop\taller1\taller1nuevo2024\cliente.cpp
+	"Cliente.h"
+	"cadena.h"
+
+1724642939 c:\users\31455183\desktop\taller1\taller1nuevo2024\cliente.h
+	"cadena.h"
+
+1724398723 source:c:\users\31455183\desktop\taller1\taller1nuevo2024\lista.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"cadena.h"
+	"producto.h"
+
+1724398723 c:\users\31455183\desktop\taller1\taller1nuevo2024\lista.h
+	"cadena.h"
+	"producto.h"
+
+1724729564 source:c:\users\31455183\desktop\taller1\taller1nuevo2024\hash.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"hash.h"
+	"producto.h"
+
+1724398723 c:\users\31455183\desktop\taller1\taller1nuevo2024\hash.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"cadena.h"
+	"producto.h"
+	"lista.h"
+
+1725315281 source:c:\users\abdiel\documents\taller1nuevo2024\cadena.cpp
+	"Cadena.h"
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1725243759 c:\users\abdiel\documents\taller1nuevo2024\cadena.h
+
+1725843839 source:c:\users\abdiel\documents\taller1nuevo2024\cliente.cpp
+	"Cliente.h"
+	"Cadena.h"
+
+1725843811 c:\users\abdiel\documents\taller1nuevo2024\cliente.h
+	"Cadena.h"
+
+1725639390 source:c:\users\abdiel\documents\taller1nuevo2024\fecha.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Fecha.h"
+
+1725225819 c:\users\abdiel\documents\taller1nuevo2024\fecha.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1725229860 source:c:\users\abdiel\documents\taller1nuevo2024\hash.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"hash.h"
+	"producto.h"
+	"cadena.h"
+
+1725225819 c:\users\abdiel\documents\taller1nuevo2024\hash.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"cadena.h"
+	"producto.h"
+	"lista.h"
+
+1725845320 c:\users\abdiel\documents\taller1nuevo2024\producto.h
+	"cadena.h"
+
+1725845674 c:\users\abdiel\documents\taller1nuevo2024\lista.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1725845619 source:c:\users\abdiel\documents\taller1nuevo2024\lista.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1725844080 source:c:\users\abdiel\documents\taller1nuevo2024\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+	"Productos.h"
+	"Cliente.h"
+	"Clientes.h"
+	"Pedido.h"
+	"Pedidos.h"
+
+1725843872 source:c:\users\abdiel\documents\taller1nuevo2024\producto.cpp
+	"Producto.h"
+	"Cadena.h"
+
+1725845705 c:\users\abdiel\documents\taller1nuevo2024\productos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+
+1725845642 source:c:\users\abdiel\documents\taller1nuevo2024\productos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Productos.h"
+	"Producto.h"
+	"Cadena.h"
+
+1725843561 source:c:\users\abdiel\documents\taller1nuevo2024\clientes.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Clientes.h"
+	"Cliente.h"
+	"Cadena.h"
+
+1725637197 c:\users\abdiel\documents\taller1nuevo2024\clientes.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Cliente.h"
+	"ListaClientes.h"
+
+1725639546 source:c:\users\abdiel\documents\taller1nuevo2024\listapedidos.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaPedidos.h"
+	"Pedido.h"
+
+1725639575 source:c:\users\abdiel\documents\taller1nuevo2024\listaclientes.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaClientes.h"
+	"Cliente.h"
+
+1725634581 c:\users\abdiel\documents\taller1nuevo2024\listaclientes.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1725844440 source:c:\users\abdiel\documents\taller1nuevo2024\pedido.cpp
+	"Pedido.h"
+	"Cadena.h"
+
+1725844061 c:\users\abdiel\documents\taller1nuevo2024\pedido.h
+	"Cadena.h"
+	"Fecha.h"
+	"Productos.h"
+
+1725637149 c:\users\abdiel\documents\taller1nuevo2024\listapedidos.h
+	"Cadena.h"
+	"Pedido.h"
+
+1725845007 source:c:\users\abdiel\documents\taller1nuevo2024\pedidos.cpp
+	"Pedidos.h"
+	"Pedido.h"
+
+1725843443 c:\users\abdiel\documents\taller1nuevo2024\pedidos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Pedido.h"
+	"ListaPedidos.h"
+
+1725315281 source:c:\users\31455183\desktop\tallerlu\cadena.cpp
+	"Cadena.h"
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1725243759 c:\users\31455183\desktop\tallerlu\cadena.h
+
+1725843839 source:c:\users\31455183\desktop\tallerlu\cliente.cpp
+	"Cliente.h"
+	"Cadena.h"
+
+1725843811 c:\users\31455183\desktop\tallerlu\cliente.h
+	"Cadena.h"
+
+1725843561 source:c:\users\31455183\desktop\tallerlu\clientes.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Clientes.h"
+	"Cliente.h"
+	"Cadena.h"
+
+1725637197 c:\users\31455183\desktop\tallerlu\clientes.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Cliente.h"
+	"ListaClientes.h"
+
+1725225819 c:\users\31455183\desktop\tallerlu\fecha.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1725634581 c:\users\31455183\desktop\tallerlu\listaclientes.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1725845320 c:\users\31455183\desktop\tallerlu\producto.h
+	"cadena.h"
+
+1725639390 source:c:\users\31455183\desktop\tallerlu\fecha.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Fecha.h"
+
+1725845619 source:c:\users\31455183\desktop\tallerlu\lista.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1725845777 c:\users\31455183\desktop\tallerlu\lista.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1725639575 source:c:\users\31455183\desktop\tallerlu\listaclientes.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaClientes.h"
+	"Cliente.h"
+
+1725639546 source:c:\users\31455183\desktop\tallerlu\listapedidos.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaPedidos.h"
+	"Pedido.h"
+
+1725637149 c:\users\31455183\desktop\tallerlu\listapedidos.h
+	"Cadena.h"
+	"Pedido.h"
+
+1727144582 c:\users\31455183\desktop\tallerlu\pedido.h
+	"Cadena.h"
+	"Fecha.h"
+	"Productos.h"
+	"ListaProductoExistente.h"
+
+1725845705 c:\users\31455183\desktop\tallerlu\productos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+
+1727762757 source:c:\users\31455183\desktop\tallerlu\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+	"Productos.h"
+	"Cliente.h"
+	"Clientes.h"
+	"Pedido.h"
+	"Pedidos.h"
+	"ListaPedidos.h"
+	"ListaClientes.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+
+1727743531 c:\users\31455183\desktop\tallerlu\pedidos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Pedido.h"
+	"ListaPedidos.h"
+
+1727144392 source:c:\users\31455183\desktop\tallerlu\pedido.cpp
+	"Pedido.h"
+	"Cadena.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+	"Lista.h"
+
+1727743486 source:c:\users\31455183\desktop\tallerlu\pedidos.cpp
+	"Pedidos.h"
+	"Pedido.h"
+
+1725843872 source:c:\users\31455183\desktop\tallerlu\producto.cpp
+	"Producto.h"
+	"Cadena.h"
+
+1725845642 source:c:\users\31455183\desktop\tallerlu\productos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Productos.h"
+	"Producto.h"
+	"Cadena.h"
+
+1727759233 source:c:\users\31455183\desktop\tallerlu\productoexistente.cpp
+	"ProductoExistente.h"
+	"Cadena.h"
+
+1727759666 c:\users\31455183\desktop\tallerlu\productoexistente.h
+
+1727143384 source:c:\users\31455183\desktop\tallerlu\listaproductoexistente.cpp
+	"ListaProductoExistente.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ProductoExistente.h"
+	"Cliente.h"
+
+1727143384 c:\users\31455183\desktop\tallerlu\listaproductoexistente.h
+	"ProductoExistente.h"
+
+1725315282 source:c:\users\mathi\onedrive\escritorio\tallerlu\cadena.cpp
+	"Cadena.h"
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1725243760 c:\users\mathi\onedrive\escritorio\tallerlu\cadena.h
+
+1725843840 source:c:\users\mathi\onedrive\escritorio\tallerlu\cliente.cpp
+	"Cliente.h"
+	"Cadena.h"
+
+1725843812 c:\users\mathi\onedrive\escritorio\tallerlu\cliente.h
+	"Cadena.h"
+
+1725843562 source:c:\users\mathi\onedrive\escritorio\tallerlu\clientes.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Clientes.h"
+	"Cliente.h"
+	"Cadena.h"
+
+1725637198 c:\users\mathi\onedrive\escritorio\tallerlu\clientes.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Cliente.h"
+	"ListaClientes.h"
+
+1725225820 c:\users\mathi\onedrive\escritorio\tallerlu\fecha.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1725634582 c:\users\mathi\onedrive\escritorio\tallerlu\listaclientes.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1725845320 c:\users\mathi\onedrive\escritorio\tallerlu\producto.h
+	"cadena.h"
+
+1725639390 source:c:\users\mathi\onedrive\escritorio\tallerlu\fecha.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Fecha.h"
+
+1725845620 source:c:\users\mathi\onedrive\escritorio\tallerlu\lista.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1725845778 c:\users\mathi\onedrive\escritorio\tallerlu\lista.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1725639576 source:c:\users\mathi\onedrive\escritorio\tallerlu\listaclientes.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaClientes.h"
+	"Cliente.h"
+
+1725639546 source:c:\users\mathi\onedrive\escritorio\tallerlu\listapedidos.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaPedidos.h"
+	"Pedido.h"
+
+1725637150 c:\users\mathi\onedrive\escritorio\tallerlu\listapedidos.h
+	"Cadena.h"
+	"Pedido.h"
+
+1727144584 c:\users\mathi\onedrive\escritorio\tallerlu\pedido.h
+	"Cadena.h"
+	"Fecha.h"
+	"Productos.h"
+	"ListaProductoExistente.h"
+
+1725845706 c:\users\mathi\onedrive\escritorio\tallerlu\productos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+
+1727143386 c:\users\mathi\onedrive\escritorio\tallerlu\listaproductoexistente.h
+	"ProductoExistente.h"
+
+1727759668 c:\users\mathi\onedrive\escritorio\tallerlu\productoexistente.h
+
+1727143386 source:c:\users\mathi\onedrive\escritorio\tallerlu\listaproductoexistente.cpp
+	"ListaProductoExistente.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ProductoExistente.h"
+	"Cliente.h"
+
+1727762758 source:c:\users\mathi\onedrive\escritorio\tallerlu\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+	"Productos.h"
+	"Cliente.h"
+	"Clientes.h"
+	"Pedido.h"
+	"Pedidos.h"
+	"ListaPedidos.h"
+	"ListaClientes.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+
+1727743532 c:\users\mathi\onedrive\escritorio\tallerlu\pedidos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Pedido.h"
+	"ListaPedidos.h"
+
+1727144394 source:c:\users\mathi\onedrive\escritorio\tallerlu\pedido.cpp
+	"Pedido.h"
+	"Cadena.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+	"Lista.h"
+
+1727743488 source:c:\users\mathi\onedrive\escritorio\tallerlu\pedidos.cpp
+	"Pedidos.h"
+	"Pedido.h"
+
+1725843872 source:c:\users\mathi\onedrive\escritorio\tallerlu\producto.cpp
+	"Producto.h"
+	"Cadena.h"
+
+1727759234 source:c:\users\mathi\onedrive\escritorio\tallerlu\productoexistente.cpp
+	"ProductoExistente.h"
+	"Cadena.h"
+
+1725845642 source:c:\users\mathi\onedrive\escritorio\tallerlu\productos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Productos.h"
+	"Producto.h"
+	"Cadena.h"
+
+1728170908 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\cadena.cpp
+	"Cadena.h"
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1728170908 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\cadena.h
+
+1728170908 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\cliente.cpp
+	"Cliente.h"
+	"Cadena.h"
+
+1728170908 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\cliente.h
+	"Cadena.h"
+
+1728170908 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\clientes.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Clientes.h"
+	"Cliente.h"
+	"Cadena.h"
+
+1728170908 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\clientes.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Cliente.h"
+	"ListaClientes.h"
+
+1728170908 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\fecha.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1728170908 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\listaclientes.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728170909 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\producto.h
+	"cadena.h"
+
+1728170908 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\fecha.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Fecha.h"
+
+1728170908 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\lista.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728170908 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\lista.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728170908 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\listaclientes.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaClientes.h"
+	"Cliente.h"
+
+1728170908 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\listapedidos.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaPedidos.h"
+	"Pedido.h"
+
+1728170908 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\listapedidos.h
+	"Cadena.h"
+	"Pedido.h"
+
+1728170909 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\pedido.h
+	"Cadena.h"
+	"Fecha.h"
+	"Productos.h"
+	"ListaProductoExistente.h"
+
+1728170909 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\productos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+
+1728170908 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\listaproductoexistente.h
+	"ProductoExistente.h"
+
+1728173181 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\productoexistente.h
+
+1728174005 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\listaproductoexistente.cpp
+	"ListaProductoExistente.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ProductoExistente.h"
+	"Cliente.h"
+
+1728174073 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+	"Productos.h"
+	"Cliente.h"
+	"Clientes.h"
+	"Pedido.h"
+	"Pedidos.h"
+	"ListaPedidos.h"
+	"ListaClientes.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+
+1728170909 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\pedidos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Pedido.h"
+	"ListaPedidos.h"
+
+1728170909 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\pedido.cpp
+	"Pedido.h"
+	"Cadena.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+	"Lista.h"
+
+1728170909 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\pedidos.cpp
+	"Pedidos.h"
+	"Pedido.h"
+
+1728170909 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\producto.cpp
+	"Producto.h"
+	"Cadena.h"
+
+1728170909 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\productoexistente.cpp
+	"ProductoExistente.h"
+	"Cadena.h"
+
+1728170909 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\4deoct\tallerlu\productos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Productos.h"
+	"Producto.h"
+	"Cadena.h"
+
+1728170908 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\cadena.cpp
+	"Cadena.h"
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1728170908 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\cadena.h
+
+1728170908 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\cliente.cpp
+	"Cliente.h"
+	"Cadena.h"
+
+1728170908 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\cliente.h
+	"Cadena.h"
+
+1728257101 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\clientes.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Clientes.h"
+	"Cliente.h"
+	"Cadena.h"
+
+1728170908 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\clientes.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Cliente.h"
+	"ListaClientes.h"
+
+1728208619 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\fecha.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1728170908 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\listaclientes.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728170909 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\producto.h
+	"cadena.h"
+
+1728170908 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\fecha.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Fecha.h"
+
+1728253268 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\lista.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728170908 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\lista.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728253643 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\listaclientes.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaClientes.h"
+	"Cliente.h"
+
+1728170908 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\listapedidos.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaPedidos.h"
+	"Pedido.h"
+
+1728170908 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\listapedidos.h
+	"Cadena.h"
+	"Pedido.h"
+
+1728170909 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\pedido.h
+	"Cadena.h"
+	"Fecha.h"
+	"Productos.h"
+	"ListaProductoExistente.h"
+
+1728248927 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\productos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+
+1728170908 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\listaproductoexistente.h
+	"ProductoExistente.h"
+
+1728173181 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\productoexistente.h
+
+1728170909 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\pedido.cpp
+	"Pedido.h"
+	"Cadena.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+	"Lista.h"
+
+1728248927 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\pedidos.cpp
+	"Pedidos.h"
+	"Pedido.h"
+
+1728170909 c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\pedidos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Pedido.h"
+	"ListaPedidos.h"
+
+1728170909 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\producto.cpp
+	"Producto.h"
+	"Cadena.h"
+
+1728170909 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\productoexistente.cpp
+	"ProductoExistente.h"
+	"Cadena.h"
+
+1728170909 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\productos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Productos.h"
+	"Producto.h"
+	"Cadena.h"
+
+1728262317 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\listaproductoexistente.cpp
+	"ListaProductoExistente.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ProductoExistente.h"
+	"Cliente.h"
+
+1728262142 source:c:\users\luram\desktop\inet\taller 1\versiones talle\4-10 mathias\4deoct\5-10 version\tallerlu\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+	"Productos.h"
+	"Cliente.h"
+	"Clientes.h"
+	"Pedido.h"
+	"Pedidos.h"
+	"ListaPedidos.h"
+	"ListaClientes.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+
+1728322665 source:c:\users\48616093\desktop\6-10 version\tallerlu\cadena.cpp
+	"Cadena.h"
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1728322665 c:\users\48616093\desktop\6-10 version\tallerlu\cadena.h
+
+1728322665 source:c:\users\48616093\desktop\6-10 version\tallerlu\cliente.cpp
+	"Cliente.h"
+	"Cadena.h"
+
+1728322665 c:\users\48616093\desktop\6-10 version\tallerlu\cliente.h
+	"Cadena.h"
+
+1728322665 source:c:\users\48616093\desktop\6-10 version\tallerlu\clientes.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Clientes.h"
+	"Cliente.h"
+	"Cadena.h"
+
+1728322665 c:\users\48616093\desktop\6-10 version\tallerlu\clientes.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Cliente.h"
+	"ListaClientes.h"
+
+1728322913 c:\users\48616093\desktop\6-10 version\tallerlu\fecha.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1728322665 c:\users\48616093\desktop\6-10 version\tallerlu\listaclientes.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728322666 c:\users\48616093\desktop\6-10 version\tallerlu\producto.h
+	"cadena.h"
+
+1728322942 source:c:\users\48616093\desktop\6-10 version\tallerlu\fecha.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Fecha.h"
+
+1728326577 source:c:\users\48616093\desktop\6-10 version\tallerlu\lista.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728326585 c:\users\48616093\desktop\6-10 version\tallerlu\lista.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728323647 source:c:\users\48616093\desktop\6-10 version\tallerlu\listaclientes.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaClientes.h"
+	"Cliente.h"
+
+1728323668 source:c:\users\48616093\desktop\6-10 version\tallerlu\listapedidos.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaPedidos.h"
+	"Pedido.h"
+
+1728322666 c:\users\48616093\desktop\6-10 version\tallerlu\listapedidos.h
+	"Cadena.h"
+	"Pedido.h"
+
+1728323422 c:\users\48616093\desktop\6-10 version\tallerlu\pedido.h
+	"Cadena.h"
+	"Fecha.h"
+	"Productos.h"
+	"ListaProductoExistente.h"
+
+1728323686 c:\users\48616093\desktop\6-10 version\tallerlu\productos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+
+1728325164 c:\users\48616093\desktop\6-10 version\tallerlu\listaproductoexistente.h
+	"ProductoExistente.h"
+
+1728322666 c:\users\48616093\desktop\6-10 version\tallerlu\productoexistente.h
+
+1728323174 source:c:\users\48616093\desktop\6-10 version\tallerlu\listaproductoexistente.cpp
+	"ListaProductoExistente.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ProductoExistente.h"
+	"Cliente.h"
+
+1728340016 source:c:\users\48616093\desktop\6-10 version\tallerlu\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+	"Productos.h"
+	"Cliente.h"
+	"Clientes.h"
+	"Pedido.h"
+	"Pedidos.h"
+	"ListaPedidos.h"
+	"ListaClientes.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+
+1728322666 c:\users\48616093\desktop\6-10 version\tallerlu\pedidos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Pedido.h"
+	"ListaPedidos.h"
+
+1728323694 source:c:\users\48616093\desktop\6-10 version\tallerlu\pedido.cpp
+	"Pedido.h"
+	"Cadena.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+	"Lista.h"
+
+1728322666 source:c:\users\48616093\desktop\6-10 version\tallerlu\pedidos.cpp
+	"Pedidos.h"
+	"Pedido.h"
+
+1728322666 source:c:\users\48616093\desktop\6-10 version\tallerlu\producto.cpp
+	"Producto.h"
+	"Cadena.h"
+
+1728322666 source:c:\users\48616093\desktop\6-10 version\tallerlu\productoexistente.cpp
+	"ProductoExistente.h"
+	"Cadena.h"
+
+1728339983 source:c:\users\48616093\desktop\6-10 version\tallerlu\productos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Productos.h"
+	"Producto.h"
+	"Cadena.h"
+
+1728402188 source:c:\users\abdiel\downloads\tallerlu\cadena.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Cadena.h"
+
+1728401849 c:\users\abdiel\downloads\tallerlu\cadena.h
+
+1728402207 source:c:\users\abdiel\downloads\tallerlu\cliente.cpp
+	<iostream>
+	<stdio.h>
+	"Cliente.h"
+	"Cadena.h"
+
+1728401849 c:\users\abdiel\downloads\tallerlu\cliente.h
+	"Cadena.h"
+
+1728402228 source:c:\users\abdiel\downloads\tallerlu\clientes.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Clientes.h"
+	"Cliente.h"
+
+1728401849 c:\users\abdiel\downloads\tallerlu\clientes.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Cliente.h"
+	"ListaClientes.h"
+
+1728401849 c:\users\abdiel\downloads\tallerlu\fecha.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1728401849 c:\users\abdiel\downloads\tallerlu\listaclientes.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728401850 c:\users\abdiel\downloads\tallerlu\producto.h
+	"cadena.h"
+
+1728401849 source:c:\users\abdiel\downloads\tallerlu\fecha.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Fecha.h"
+
+1728401849 source:c:\users\abdiel\downloads\tallerlu\lista.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728401849 c:\users\abdiel\downloads\tallerlu\lista.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728401849 source:c:\users\abdiel\downloads\tallerlu\listaclientes.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaClientes.h"
+	"Cliente.h"
+
+1728401849 source:c:\users\abdiel\downloads\tallerlu\listapedidos.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaPedidos.h"
+	"Pedido.h"
+
+1728401849 c:\users\abdiel\downloads\tallerlu\listapedidos.h
+	"Cadena.h"
+	"Pedido.h"
+
+1728401849 c:\users\abdiel\downloads\tallerlu\pedido.h
+	"Cadena.h"
+	"Fecha.h"
+	"Productos.h"
+	"ListaProductoExistente.h"
+
+1728401850 c:\users\abdiel\downloads\tallerlu\productos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+
+1728401849 c:\users\abdiel\downloads\tallerlu\listaproductoexistente.h
+	"ProductoExistente.h"
+
+1728402086 c:\users\abdiel\downloads\tallerlu\productoexistente.h
+
+1728401849 source:c:\users\abdiel\downloads\tallerlu\listaproductoexistente.cpp
+	"ListaProductoExistente.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ProductoExistente.h"
+	"Cliente.h"
+
+1728403187 source:c:\users\abdiel\downloads\tallerlu\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+	"Productos.h"
+	"Cliente.h"
+	"Clientes.h"
+	"Pedido.h"
+	"Pedidos.h"
+	"ListaPedidos.h"
+	"ListaClientes.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+
+1728401850 c:\users\abdiel\downloads\tallerlu\pedidos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Pedido.h"
+	"ListaPedidos.h"
+
+1728401849 source:c:\users\abdiel\downloads\tallerlu\pedido.cpp
+	"Pedido.h"
+	"Cadena.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+	"Lista.h"
+
+1728402896 source:c:\users\abdiel\downloads\tallerlu\pedidos.cpp
+	"Pedidos.h"
+	"Pedido.h"
+
+1728401850 source:c:\users\abdiel\downloads\tallerlu\producto.cpp
+	"Producto.h"
+	"Cadena.h"
+
+1728401850 source:c:\users\abdiel\downloads\tallerlu\productoexistente.cpp
+	"ProductoExistente.h"
+	"Cadena.h"
+
+1728401850 source:c:\users\abdiel\downloads\tallerlu\productos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Productos.h"
+	"Producto.h"
+	"Cadena.h"
+
+1728414249 source:c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\cadena.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Cadena.h"
+
+1728414249 c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\cadena.h
+
+1728414249 source:c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\cliente.cpp
+	<iostream>
+	<stdio.h>
+	"Cliente.h"
+	"Cadena.h"
+
+1728726084 c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\cliente.h
+	"Cadena.h"
+
+1728715714 source:c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\clientes.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Clientes.h"
+	"Cliente.h"
+
+1728414249 c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\clientes.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Cliente.h"
+	"ListaClientes.h"
+
+1728414249 c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\fecha.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1728414249 c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\listaclientes.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728414250 c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\producto.h
+	"cadena.h"
+
+1728414249 source:c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\fecha.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Fecha.h"
+
+1728414249 source:c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\lista.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728414249 c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\lista.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728414249 source:c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\listaclientes.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaClientes.h"
+	"Cliente.h"
+
+1728414250 source:c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\listapedidos.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaPedidos.h"
+	"Pedido.h"
+
+1728414250 c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\listapedidos.h
+	"Cadena.h"
+	"Pedido.h"
+
+1728414250 c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\pedido.h
+	"Cadena.h"
+	"Fecha.h"
+	"Productos.h"
+	"ListaProductoExistente.h"
+
+1728414250 c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\productos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+
+1728414250 c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\listaproductoexistente.h
+	"ProductoExistente.h"
+
+1728414250 c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\productoexistente.h
+
+1728414250 source:c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\listaproductoexistente.cpp
+	"ListaProductoExistente.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ProductoExistente.h"
+	"Cliente.h"
+
+1728414250 source:c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+	"Productos.h"
+	"Cliente.h"
+	"Clientes.h"
+	"Pedido.h"
+	"Pedidos.h"
+	"ListaPedidos.h"
+	"ListaClientes.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+
+1728414250 c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\pedidos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Pedido.h"
+	"ListaPedidos.h"
+
+1728414250 source:c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\pedido.cpp
+	"Pedido.h"
+	"Cadena.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+	"Lista.h"
+
+1728414250 source:c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\pedidos.cpp
+	"Pedidos.h"
+	"Pedido.h"
+
+1728414250 source:c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\producto.cpp
+	"Producto.h"
+	"Cadena.h"
+
+1728414250 source:c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\productoexistente.cpp
+	"ProductoExistente.h"
+	"Cadena.h"
+
+1728414250 source:c:\users\luram\desktop\inet\taller 1\versiones talle\8- 10 tallerlu_modificado por lujan\tallerlu\productos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Productos.h"
+	"Producto.h"
+	"Cadena.h"
+
+1728414249 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\cadena.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Cadena.h"
+
+1728414249 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\cadena.h
+
+1728414249 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\cliente.cpp
+	<iostream>
+	<stdio.h>
+	"Cliente.h"
+	"Cadena.h"
+
+1728764641 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\cliente.h
+	"Cadena.h"
+
+1728715714 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\clientes.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Clientes.h"
+	"Cliente.h"
+
+1728414249 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\clientes.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Cliente.h"
+	"ListaClientes.h"
+
+1728414249 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\fecha.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1728414249 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\listaclientes.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728414250 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\producto.h
+	"cadena.h"
+
+1728414249 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\fecha.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Fecha.h"
+
+1728414249 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\lista.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728414249 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\lista.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728414249 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\listaclientes.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaClientes.h"
+	"Cliente.h"
+
+1728414250 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\listapedidos.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaPedidos.h"
+	"Pedido.h"
+
+1728732110 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\listapedidos.h
+	"Cadena.h"
+	"Pedido.h"
+
+1728414250 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\pedido.h
+	"Cadena.h"
+	"Fecha.h"
+	"Productos.h"
+	"ListaProductoExistente.h"
+
+1728414250 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\productos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+
+1728414250 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\listaproductoexistente.h
+	"ProductoExistente.h"
+
+1728414250 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\productoexistente.h
+
+1728414250 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\listaproductoexistente.cpp
+	"ListaProductoExistente.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ProductoExistente.h"
+	"Cliente.h"
+
+1728771008 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+	"Productos.h"
+	"Cliente.h"
+	"Clientes.h"
+	"Pedido.h"
+	"Pedidos.h"
+	"ListaPedidos.h"
+	"ListaClientes.h"
+	"ListaProductoExistente.h"
+	"Alerta.h"
+	"Alertas.h"
+	"Punto.h"
+	"Puntos.h"
+
+1728414250 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\pedidos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Pedido.h"
+	"ListaPedidos.h"
+
+1728414250 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\pedido.cpp
+	"Pedido.h"
+	"Cadena.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+	"Lista.h"
+
+1728414250 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\pedidos.cpp
+	"Pedidos.h"
+	"Pedido.h"
+
+1728414250 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\producto.cpp
+	"Producto.h"
+	"Cadena.h"
+
+1728414250 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\productoexistente.cpp
+	"ProductoExistente.h"
+	"Cadena.h"
+
+1728764364 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\productos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Productos.h"
+	"Producto.h"
+	"Cadena.h"
+
+1728788207 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\alerta.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdbool.h>
+	"Cadena.h"
+	"Fecha.h"
+	"ProductoExistente.h"
+	"Punto.h"
+
+1728778739 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\punto.h
+	<stdbool.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Cadena.h"
+	"ProductoExistente.h"
+	"ListaClientes.h"
+	"ListaAlertas.h"
+	"ListaPedidos.h"
+	"ListaProductoExistente.h"
+
+1728769325 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\alertas.h
+	<iostream>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaAlertas.h"
+	"Alerta.h"
+
+1728795274 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\listaalertas.h
+	"Alerta.h"
+	"Cadena.h"
+	"Producto.h"
+
+1728783962 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\alerta.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdbool.h>
+	"Cadena.h"
+	"Fecha.h"
+	"ProductoExistente.h"
+
+1728779728 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\alertas.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Cadena.h"
+	"Alertas.h"
+	"Alerta.h"
+
+1728783984 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\listaalertas.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdbool.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaAlertas.h"
+	"Alerta.h"
+
+1728783012 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\listapuntos.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Cadena.h"
+	"Punto.h"
+	"ListaPuntos.h"
+
+1728782128 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\listapuntos.h
+	"Punto.h"
+
+1728783111 c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\puntos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaPuntos.h"
+	"Punto.h"
+
+1728783352 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\punto.cpp
+	<stdbool.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Cadena.h"
+	"ProductoExistente.h"
+	"ListaAlertas.h"
+	"ListaPedidos.h"
+	"ListaClientes.h"
+	"ListaProductoExistente.h"
+	"Punto.h"
+
+1728783689 source:c:\users\luram\desktop\inet\taller 1\versiones talle\12- 10 tallerlu_modificado por luciana\tallerlu\puntos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Puntos.h"
+	"Punto.h"
+	"Cadena.h"
+
+1728828903 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\alerta.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdbool.h>
+	"Cadena.h"
+	"Fecha.h"
+	"ProductoExistente.h"
+	"Punto.h"
+
+1728828904 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\cadena.h
+
+1728828904 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\fecha.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1728828905 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\productoexistente.h
+
+1728828906 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\punto.h
+	<stdbool.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Cadena.h"
+	"ProductoExistente.h"
+	"ListaClientes.h"
+	"ListaAlertas.h"
+	"ListaPedidos.h"
+	"ListaProductoExistente.h"
+
+1728828905 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\listaclientes.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728828905 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\producto.h
+	"cadena.h"
+
+1728828904 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\cliente.h
+	"Cadena.h"
+
+1728828904 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\listaalertas.h
+	"Alerta.h"
+	"Cadena.h"
+	"Producto.h"
+
+1728828903 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\alerta.h
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdbool.h>
+	"Cadena.h"
+	"Fecha.h"
+	"ProductoExistente.h"
+
+1728828905 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\listapedidos.h
+	"Cadena.h"
+	"Pedido.h"
+
+1728828905 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\pedido.h
+	"Cadena.h"
+	"Fecha.h"
+	"Productos.h"
+	"ListaProductoExistente.h"
+
+1728828906 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\productos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+
+1728828904 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\lista.h
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728828905 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\listaproductoexistente.h
+	"ProductoExistente.h"
+
+1728828903 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\alertas.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Cadena.h"
+	"Alertas.h"
+	"Alerta.h"
+
+1728828903 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\alertas.h
+	<iostream>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaAlertas.h"
+	"Alerta.h"
+
+1728828904 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\cadena.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Cadena.h"
+
+1728828904 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\cliente.cpp
+	<iostream>
+	<stdio.h>
+	"Cliente.h"
+	"Cadena.h"
+
+1728828904 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\clientes.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Clientes.h"
+	"Cliente.h"
+
+1728828904 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\clientes.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Cliente.h"
+	"ListaClientes.h"
+
+1728828904 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\fecha.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Fecha.h"
+
+1728828904 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\lista.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Cliente.h"
+
+1728828904 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\listaalertas.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdbool.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaAlertas.h"
+	"Alerta.h"
+
+1728828904 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\listaclientes.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaClientes.h"
+	"Cliente.h"
+
+1728828905 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\listapedidos.cpp
+	"Lista.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaPedidos.h"
+	"Pedido.h"
+
+1728828905 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\listaproductoexistente.cpp
+	"ListaProductoExistente.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ProductoExistente.h"
+	"Cliente.h"
+
+1728828905 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\listapuntos.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Cadena.h"
+	"Punto.h"
+	"ListaPuntos.h"
+
+1728830570 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\listapuntos.h
+	"Punto.h"
+
+1728829282 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Producto.h"
+	"Lista.h"
+	"Productos.h"
+	"Cliente.h"
+	"Clientes.h"
+	"Pedido.h"
+	"Pedidos.h"
+	"ListaPedidos.h"
+	"ListaClientes.h"
+	"ListaProductoExistente.h"
+	"Alerta.h"
+	"Alertas.h"
+	"Punto.h"
+	"Puntos.h"
+
+1728828905 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\pedidos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"Pedido.h"
+	"ListaPedidos.h"
+
+1728828906 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\puntos.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"Fecha.h"
+	"Cadena.h"
+	"ListaPuntos.h"
+	"Punto.h"
+
+1728828905 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\pedido.cpp
+	"Pedido.h"
+	"Cadena.h"
+	"ListaProductoExistente.h"
+	"ProductoExistente.h"
+	"Lista.h"
+
+1728828905 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\pedidos.cpp
+	"Pedidos.h"
+	"Pedido.h"
+
+1728828905 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\producto.cpp
+	"Producto.h"
+	"Cadena.h"
+
+1728828905 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\productoexistente.cpp
+	"ProductoExistente.h"
+	"Cadena.h"
+
+1728828906 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\productos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Productos.h"
+	"Producto.h"
+	"Cadena.h"
+
+1728828906 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\punto.cpp
+	<stdbool.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Cadena.h"
+	"ProductoExistente.h"
+	"ListaAlertas.h"
+	"ListaPedidos.h"
+	"ListaClientes.h"
+	"ListaProductoExistente.h"
+	"Punto.h"
+
+1728828906 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\puntos.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	"Puntos.h"
+	"Punto.h"
+	"Cadena.h"
+
+1728830826 source:c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\ruta.cpp
+	<iostream>
+	<stdio.h>
+	"Ruta.h"
+
+1728830806 c:\users\48616093\desktop\12- 10 tallerlu_modificado por luciana\tallerlu\ruta.h
+	"Cadena.h"
+
